@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE aida SYSTEM "http://aida.freehep.org/schemas/3.3/aida.dtd">
+<aida version="3.3">
+  <implementation version="1.0" package="HepData"/>
+  <dataPointSet name="d01-x01-y01" dimension="2" path="/REF/BABAR_2004_S632399" title="MULT(C=PHI)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.0341" errorPlus="0.0018" errorMinus="0.0018"/>
+    </dataPoint>
+  </dataPointSet>
+  
+  <dataPointSet name="d02-x01-y01" dimension="2" path="/REF/BABAR_2004_S632399" title="CMS p" > <!--   This data has been extracted with g3data from the image of the pdf. Hence there is another source of error.   -->
+    <dataPoint>
+      <measurement value="1.00000000e-01" errorPlus="1.00000000e-01" errorMinus="1.00000000e-01"/>
+      <measurement value="-0.00018" errorPlus="0.00827" errorMinus="0.00841"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="3.00000000e-01" errorPlus="1.00000000e-01" errorMinus="1.00000000e-01"/>
+      <measurement value="0.02759" errorPlus="0.00308" errorMinus="0.00294"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="5.00000000e-01" errorPlus="1.00000000e-01" errorMinus="1.00000000e-01"/>
+      <measurement value="0.04316" errorPlus="0.00421" errorMinus="0.00393"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="7.00000000e-01" errorPlus="1.00000000e-01" errorMinus="1.00000000e-01"/>
+      <measurement value="0.03700" errorPlus="0.00294" errorMinus="0.00280"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="9.00000000e-01" errorPlus="1.00000000e-01" errorMinus="1.00000000e-01"/>
+      <measurement value="0.02650" errorPlus="0.00182" errorMinus="0.00196"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="1.10000000e+00" errorPlus="1.00000000e-01" errorMinus="1.00000000e-01"/>
+      <measurement value="0.01796" errorPlus="0.00126" errorMinus="0.00126"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="1.30000000e+00" errorPlus="1.00000000e-01" errorMinus="1.00000000e-01"/>
+      <measurement value="0.01096" errorPlus="0.00098" errorMinus="0.00084"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="1.50000000e+00" errorPlus="1.00000000e-01" errorMinus="1.00000000e-01"/>
+      <measurement value="0.00621" errorPlus="0.00070" errorMinus="0.00056"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="1.70000000e+00" errorPlus="1.00000000e-01" errorMinus="1.00000000e-01"/>
+      <measurement value="0.00300" errorPlus="0.00056" errorMinus="0.00084"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="1.90000000e+00" errorPlus="1.00000000e-01" errorMinus="1.00000000e-01"/>
+      <measurement value="0.00091" errorPlus="0.00056" errorMinus="0.00070"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="2.10000000e+00" errorPlus="1.00000000e-01" errorMinus="1.00000000e-01"/>
+      <measurement value="0.00078" errorPlus="0.00056" errorMinus="0.00070"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="2.30000000e+00" errorPlus="1.00000000e-01" errorMinus="1.00000000e-01"/>
+      <measurement value="-0.00033" errorPlus="0.00042" errorMinus="0.00070"/>
+    </dataPoint>
+  </dataPointSet>
+</aida>

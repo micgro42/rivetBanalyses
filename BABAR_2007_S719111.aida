@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE aida SYSTEM "http://aida.freehep.org/schemas/3.3/aida.dtd">
+<aida version="3.3">
+  <implementation version="1.0" package="HepData"/>
+  <dataPointSet name="d01-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B-->D0)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.786" errorPlus="0.0373" errorMinus="0.0367"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d02-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B-->D0bar)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.086" errorPlus="0.007" errorMinus="0.007"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d03-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B-->D+)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.099" errorPlus="0.0124" errorMinus="0.0118"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d04-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B-->D-)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.025" errorPlus="0.0055" errorMinus="0.0055"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d05-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B-->Ds+)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.012" errorPlus="0.006" errorMinus="0.0034"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d06-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B-->Ds-)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.086" errorPlus="0.0153" errorMinus="0.0129"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d07-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B-->Lambdac+)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.028" errorPlus="0.0116" errorMinus="0.0084"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d08-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B-->Lambdac-)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.021" errorPlus="0.0097" errorMinus="0.0068"/>
+    </dataPoint>
+  </dataPointSet>
+  
+  <dataPointSet name="d09-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B0->D0)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.474" errorPlus="0.0282" errorMinus="0.0278"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d10-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B0->D0bar)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.081" errorPlus="0.015" errorMinus="0.015"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d11-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B0->D+)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.369" errorPlus="0.0336" errorMinus="0.0314"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d12-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B0->D-)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.023" errorPlus="0.0116" errorMinus="0.0114"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d13-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B0->Ds+)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.016" errorPlus="0.0093" errorMinus="0.0093"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d14-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B0->Ds-)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.112" errorPlus="0.0218" errorMinus="0.0189"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d15-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B0->Lambdac+)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.050" errorPlus="0.0212" errorMinus="0.0150"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d16-x01-y01" dimension="2" path="/REF/BABAR_2007_S719111" title="MULT(B0->Lambdac-)" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="0.016" errorPlus="0.0110" errorMinus="0.0097"/>
+    </dataPoint>
+  </dataPointSet>
+</aida>
